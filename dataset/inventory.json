@@ -1,0 +1,21 @@
+{
+  "tenant": "org-demo",
+  "generated_for": "Reto técnico - simulación de entorno cloud",
+  "resources": [
+    { "resource_id": "vm-ops-prod-01", "type": "Microsoft.Compute/virtualMachines", "resource_group": "rg-ops-prod", "region": "eastus2", "tags": { "criticidad": "alta", "environment": "prod", "workload": "core-operativo" } },
+    { "resource_id": "vm-ops-prod-02", "type": "Microsoft.Compute/virtualMachines", "resource_group": "rg-ops-prod", "region": "eastus2", "tags": { "criticidad": "alta", "environment": "prod", "workload": "core-operativo" } },
+    { "resource_id": "sql-ops-prod-db01", "type": "Microsoft.Sql/servers/databases", "resource_group": "rg-ops-prod", "region": "eastus2", "tags": { "criticidad": "alta", "environment": "prod", "workload": "core-operativo" } },
+    { "resource_id": "kv-ops-prod-secrets", "type": "Microsoft.KeyVault/vaults", "resource_group": "rg-ops-prod", "region": "eastus2", "tags": { "criticidad": "alta", "environment": "prod", "workload": "core-operativo" } },
+    { "resource_id": "aks-plataforma-prod", "type": "Microsoft.ContainerService/managedClusters", "resource_group": "rg-plataforma-prod", "region": "eastus2", "tags": { "criticidad": "alta", "environment": "prod", "workload": "plataforma-core" } },
+    { "resource_id": "st-plataforma-prod-logs", "type": "Microsoft.Storage/storageAccounts", "resource_group": "rg-plataforma-prod", "region": "eastus2", "tags": { "criticidad": "media", "environment": "prod", "workload": "plataforma-core" } },
+    { "resource_id": "log-plataforma-prod-workspace", "type": "Microsoft.OperationalInsights/workspaces", "resource_group": "rg-plataforma-prod", "region": "eastus2", "tags": { "criticidad": "media", "environment": "prod", "workload": "plataforma-core" } },
+    { "resource_id": "appsvc-portal-prod", "type": "Microsoft.Web/sites", "resource_group": "rg-portal-prod", "region": "eastus2", "tags": { "criticidad": "media", "environment": "prod", "workload": "portal-interno" } },
+    { "resource_id": "st-portal-prod-static", "type": "Microsoft.Storage/storageAccounts", "resource_group": "rg-portal-prod", "region": "eastus2", "tags": { "criticidad": "baja", "environment": "prod", "workload": "portal-interno" } },
+    { "resource_id": "vnet-core-prod", "type": "Microsoft.Network/virtualNetworks", "resource_group": "rg-plataforma-prod", "region": "eastus2", "tags": { "criticidad": "alta", "environment": "prod", "workload": "plataforma-core" } },
+    { "resource_id": "vm-analytics-dev-01", "type": "Microsoft.Compute/virtualMachines", "resource_group": "rg-analytics-dev", "region": "eastus2", "tags": { "criticidad": "baja", "environment": "dev", "workload": "analytics-sandbox" } },
+    { "resource_id": "sql-analytics-dev-db01", "type": "Microsoft.Sql/servers/databases", "resource_group": "rg-analytics-dev", "region": "eastus2", "tags": { "criticidad": "baja", "environment": "dev", "workload": "analytics-sandbox" } },
+    { "resource_id": "st-backup-qa-archive", "type": "Microsoft.Storage/storageAccounts", "resource_group": "rg-qa", "region": "eastus2", "tags": { "criticidad": "media", "environment": "qa", "workload": "qa-general" } },
+    { "resource_id": "vm-qa-test-01", "type": "Microsoft.Compute/virtualMachines", "resource_group": "rg-qa", "region": "eastus2", "tags": { "criticidad": "baja", "environment": "qa", "workload": "qa-general" } },
+    { "resource_id": "appsvc-reportes-dev", "type": "Microsoft.Web/sites", "resource_group": "rg-analytics-dev", "region": "eastus2", "tags": { "criticidad": "baja", "environment": "dev", "workload": "analytics-sandbox" } }
+  ]
+}

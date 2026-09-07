@@ -1,0 +1,2256 @@
+{
+  "currency": "USD",
+  "period_days": 30,
+  "daily_costs": [
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 1,
+      "cost_usd": 46.0
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 2,
+      "cost_usd": 41.58
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 3,
+      "cost_usd": 43.38
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 4,
+      "cost_usd": 43.01
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 5,
+      "cost_usd": 46.7
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 6,
+      "cost_usd": 46.27
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 7,
+      "cost_usd": 47.82
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 8,
+      "cost_usd": 42.03
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 9,
+      "cost_usd": 44.44
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 10,
+      "cost_usd": 41.61
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 11,
+      "cost_usd": 42.97
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 12,
+      "cost_usd": 45.04
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 13,
+      "cost_usd": 41.59
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 14,
+      "cost_usd": 42.83
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 15,
+      "cost_usd": 46.08
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 16,
+      "cost_usd": 45.32
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 17,
+      "cost_usd": 42.99
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 18,
+      "cost_usd": 45.64
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 19,
+      "cost_usd": 47.23
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 20,
+      "cost_usd": 41.45
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 21,
+      "cost_usd": 47.2
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 22,
+      "cost_usd": 46.43
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 23,
+      "cost_usd": 43.85
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 24,
+      "cost_usd": 42.52
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 25,
+      "cost_usd": 48.29
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 26,
+      "cost_usd": 43.82
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 27,
+      "cost_usd": 42.07
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 28,
+      "cost_usd": 42.1
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 29,
+      "cost_usd": 47.5
+    },
+    {
+      "resource_id": "vm-ops-prod-01",
+      "day": 30,
+      "cost_usd": 45.75
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 1,
+      "cost_usd": 47.21
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 2,
+      "cost_usd": 46.65
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 3,
+      "cost_usd": 45.26
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 4,
+      "cost_usd": 48.41
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 5,
+      "cost_usd": 44.13
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 6,
+      "cost_usd": 45.37
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 7,
+      "cost_usd": 47.37
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 8,
+      "cost_usd": 45.85
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 9,
+      "cost_usd": 47.6
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 10,
+      "cost_usd": 45.56
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 11,
+      "cost_usd": 46.47
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 12,
+      "cost_usd": 41.73
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 13,
+      "cost_usd": 43.04
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 14,
+      "cost_usd": 43.48
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 15,
+      "cost_usd": 41.97
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 16,
+      "cost_usd": 43.08
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 17,
+      "cost_usd": 42.13
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 18,
+      "cost_usd": 43.4
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 19,
+      "cost_usd": 45.98
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 20,
+      "cost_usd": 44.03
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 21,
+      "cost_usd": 44.07
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 22,
+      "cost_usd": 42.91
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 23,
+      "cost_usd": 43.32
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 24,
+      "cost_usd": 48.14
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 25,
+      "cost_usd": 46.07
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 26,
+      "cost_usd": 45.79
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 27,
+      "cost_usd": 42.63
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 28,
+      "cost_usd": 46.65
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 29,
+      "cost_usd": 42.58
+    },
+    {
+      "resource_id": "vm-ops-prod-02",
+      "day": 30,
+      "cost_usd": 44.13
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 1,
+      "cost_usd": 64.7
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 2,
+      "cost_usd": 61.34
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 3,
+      "cost_usd": 60.55
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 4,
+      "cost_usd": 61.77
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 5,
+      "cost_usd": 63.29
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 6,
+      "cost_usd": 62.65
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 7,
+      "cost_usd": 57.4
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 8,
+      "cost_usd": 55.51
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 9,
+      "cost_usd": 58.23
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 10,
+      "cost_usd": 57.77
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 11,
+      "cost_usd": 57.23
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 12,
+      "cost_usd": 64.25
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 13,
+      "cost_usd": 63.61
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 14,
+      "cost_usd": 58.22
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 15,
+      "cost_usd": 61.49
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 16,
+      "cost_usd": 59.0
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 17,
+      "cost_usd": 63.98
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 18,
+      "cost_usd": 59.6
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 19,
+      "cost_usd": 57.74
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 20,
+      "cost_usd": 57.57
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 21,
+      "cost_usd": 60.59
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 22,
+      "cost_usd": 57.72
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 23,
+      "cost_usd": 60.81
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 24,
+      "cost_usd": 63.82
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 25,
+      "cost_usd": 59.03
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 26,
+      "cost_usd": 57.31
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 27,
+      "cost_usd": 64.78
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 28,
+      "cost_usd": 60.09
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 29,
+      "cost_usd": 56.07
+    },
+    {
+      "resource_id": "sql-ops-prod-db01",
+      "day": 30,
+      "cost_usd": 55.65
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 1,
+      "cost_usd": 1.88
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 2,
+      "cost_usd": 2.04
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 3,
+      "cost_usd": 2.09
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 4,
+      "cost_usd": 1.98
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 5,
+      "cost_usd": 1.86
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 6,
+      "cost_usd": 1.96
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 7,
+      "cost_usd": 2.16
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 8,
+      "cost_usd": 2.01
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 9,
+      "cost_usd": 2.15
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 10,
+      "cost_usd": 2.12
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 11,
+      "cost_usd": 1.84
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 12,
+      "cost_usd": 2.07
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 13,
+      "cost_usd": 2.06
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 14,
+      "cost_usd": 2.01
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 15,
+      "cost_usd": 1.93
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 16,
+      "cost_usd": 2.05
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 17,
+      "cost_usd": 1.88
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 18,
+      "cost_usd": 1.98
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 19,
+      "cost_usd": 1.99
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 20,
+      "cost_usd": 2.15
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 21,
+      "cost_usd": 2.12
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 22,
+      "cost_usd": 1.92
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 23,
+      "cost_usd": 2.0
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 24,
+      "cost_usd": 1.9
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 25,
+      "cost_usd": 2.13
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 26,
+      "cost_usd": 2.12
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 27,
+      "cost_usd": 1.94
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 28,
+      "cost_usd": 2.04
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 29,
+      "cost_usd": 2.03
+    },
+    {
+      "resource_id": "kv-ops-prod-secrets",
+      "day": 30,
+      "cost_usd": 1.89
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 1,
+      "cost_usd": 125.04
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 2,
+      "cost_usd": 120.76
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 3,
+      "cost_usd": 125.35
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 4,
+      "cost_usd": 120.58
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 5,
+      "cost_usd": 110.41
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 6,
+      "cost_usd": 116.62
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 7,
+      "cost_usd": 110.77
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 8,
+      "cost_usd": 128.24
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 9,
+      "cost_usd": 127.27
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 10,
+      "cost_usd": 126.37
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 11,
+      "cost_usd": 116.3
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 12,
+      "cost_usd": 111.51
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 13,
+      "cost_usd": 127.26
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 14,
+      "cost_usd": 128.58
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 15,
+      "cost_usd": 112.04
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 16,
+      "cost_usd": 119.73
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 17,
+      "cost_usd": 111.73
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 18,
+      "cost_usd": 125.0
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 19,
+      "cost_usd": 125.1
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 20,
+      "cost_usd": 112.87
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 21,
+      "cost_usd": 119.53
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 22,
+      "cost_usd": 120.96
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 23,
+      "cost_usd": 115.49
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 24,
+      "cost_usd": 127.15
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 25,
+      "cost_usd": 118.52
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 26,
+      "cost_usd": 114.47
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 27,
+      "cost_usd": 120.75
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 28,
+      "cost_usd": 124.41
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 29,
+      "cost_usd": 114.26
+    },
+    {
+      "resource_id": "aks-plataforma-prod",
+      "day": 30,
+      "cost_usd": 116.38
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 1,
+      "cost_usd": 19.43
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 2,
+      "cost_usd": 18.43
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 3,
+      "cost_usd": 17.82
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 4,
+      "cost_usd": 18.05
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 5,
+      "cost_usd": 16.91
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 6,
+      "cost_usd": 17.21
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 7,
+      "cost_usd": 17.53
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 8,
+      "cost_usd": 18.25
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 9,
+      "cost_usd": 17.22
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 10,
+      "cost_usd": 17.19
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 11,
+      "cost_usd": 16.76
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 12,
+      "cost_usd": 18.38
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 13,
+      "cost_usd": 17.22
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 14,
+      "cost_usd": 19.17
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 15,
+      "cost_usd": 19.04
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 16,
+      "cost_usd": 16.76
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 17,
+      "cost_usd": 17.25
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 18,
+      "cost_usd": 18.49
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 19,
+      "cost_usd": 17.18
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 20,
+      "cost_usd": 16.94
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 21,
+      "cost_usd": 19.25
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 22,
+      "cost_usd": 18.2
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 23,
+      "cost_usd": 17.92
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 24,
+      "cost_usd": 81.07
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 25,
+      "cost_usd": 61.54
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 26,
+      "cost_usd": 69.84
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 27,
+      "cost_usd": 75.74
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 28,
+      "cost_usd": 82.96
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 29,
+      "cost_usd": 65.72
+    },
+    {
+      "resource_id": "st-plataforma-prod-logs",
+      "day": 30,
+      "cost_usd": 76.5
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 1,
+      "cost_usd": 23.99
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 2,
+      "cost_usd": 23.76
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 3,
+      "cost_usd": 24.79
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 4,
+      "cost_usd": 24.69
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 5,
+      "cost_usd": 24.11
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 6,
+      "cost_usd": 24.0
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 7,
+      "cost_usd": 26.69
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 8,
+      "cost_usd": 24.77
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 9,
+      "cost_usd": 26.45
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 10,
+      "cost_usd": 25.2
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 11,
+      "cost_usd": 23.2
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 12,
+      "cost_usd": 27.0
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 13,
+      "cost_usd": 26.34
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 14,
+      "cost_usd": 26.88
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 15,
+      "cost_usd": 26.71
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 16,
+      "cost_usd": 26.39
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 17,
+      "cost_usd": 23.67
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 18,
+      "cost_usd": 24.94
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 19,
+      "cost_usd": 23.85
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 20,
+      "cost_usd": 24.6
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 21,
+      "cost_usd": 23.23
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 22,
+      "cost_usd": 24.52
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 23,
+      "cost_usd": 26.94
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 24,
+      "cost_usd": 24.06
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 25,
+      "cost_usd": 26.14
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 26,
+      "cost_usd": 24.82
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 27,
+      "cost_usd": 24.69
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 28,
+      "cost_usd": 26.83
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 29,
+      "cost_usd": 26.98
+    },
+    {
+      "resource_id": "log-plataforma-prod-workspace",
+      "day": 30,
+      "cost_usd": 25.22
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 1,
+      "cost_usd": 15.52
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 2,
+      "cost_usd": 14.17
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 3,
+      "cost_usd": 14.51
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 4,
+      "cost_usd": 16.12
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 5,
+      "cost_usd": 15.19
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 6,
+      "cost_usd": 15.1
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 7,
+      "cost_usd": 15.6
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 8,
+      "cost_usd": 13.94
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 9,
+      "cost_usd": 15.2
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 10,
+      "cost_usd": 15.01
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 11,
+      "cost_usd": 15.85
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 12,
+      "cost_usd": 14.18
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 13,
+      "cost_usd": 16.11
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 14,
+      "cost_usd": 13.99
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 15,
+      "cost_usd": 14.25
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 16,
+      "cost_usd": 15.23
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 17,
+      "cost_usd": 15.42
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 18,
+      "cost_usd": 14.36
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 19,
+      "cost_usd": 14.09
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 20,
+      "cost_usd": 15.94
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 21,
+      "cost_usd": 14.39
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 22,
+      "cost_usd": 15.23
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 23,
+      "cost_usd": 15.29
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 24,
+      "cost_usd": 14.81
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 25,
+      "cost_usd": 15.2
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 26,
+      "cost_usd": 15.05
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 27,
+      "cost_usd": 16.04
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 28,
+      "cost_usd": 14.29
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 29,
+      "cost_usd": 15.52
+    },
+    {
+      "resource_id": "appsvc-portal-prod",
+      "day": 30,
+      "cost_usd": 14.37
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 1,
+      "cost_usd": 4.92
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 2,
+      "cost_usd": 5.14
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 3,
+      "cost_usd": 4.84
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 4,
+      "cost_usd": 4.85
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 5,
+      "cost_usd": 5.2
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 6,
+      "cost_usd": 4.66
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 7,
+      "cost_usd": 4.97
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 8,
+      "cost_usd": 5.4
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 9,
+      "cost_usd": 5.4
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 10,
+      "cost_usd": 4.66
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 11,
+      "cost_usd": 4.77
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 12,
+      "cost_usd": 4.81
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 13,
+      "cost_usd": 5.35
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 14,
+      "cost_usd": 5.3
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 15,
+      "cost_usd": 5.3
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 16,
+      "cost_usd": 4.9
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 17,
+      "cost_usd": 4.73
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 18,
+      "cost_usd": 5.27
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 19,
+      "cost_usd": 5.16
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 20,
+      "cost_usd": 5.09
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 21,
+      "cost_usd": 5.39
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 22,
+      "cost_usd": 5.12
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 23,
+      "cost_usd": 4.61
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 24,
+      "cost_usd": 5.25
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 25,
+      "cost_usd": 4.84
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 26,
+      "cost_usd": 5.13
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 27,
+      "cost_usd": 5.35
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 28,
+      "cost_usd": 4.71
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 29,
+      "cost_usd": 4.69
+    },
+    {
+      "resource_id": "st-portal-prod-static",
+      "day": 30,
+      "cost_usd": 4.69
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 1,
+      "cost_usd": 3.03
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 2,
+      "cost_usd": 2.89
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 3,
+      "cost_usd": 3.05
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 4,
+      "cost_usd": 3.1
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 5,
+      "cost_usd": 2.86
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 6,
+      "cost_usd": 3.06
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 7,
+      "cost_usd": 2.89
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 8,
+      "cost_usd": 2.99
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 9,
+      "cost_usd": 3.19
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 10,
+      "cost_usd": 3.17
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 11,
+      "cost_usd": 2.8
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 12,
+      "cost_usd": 2.96
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 13,
+      "cost_usd": 2.89
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 14,
+      "cost_usd": 2.76
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 15,
+      "cost_usd": 3.13
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 16,
+      "cost_usd": 3.07
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 17,
+      "cost_usd": 2.89
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 18,
+      "cost_usd": 3.12
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 19,
+      "cost_usd": 3.02
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 20,
+      "cost_usd": 2.97
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 21,
+      "cost_usd": 2.76
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 22,
+      "cost_usd": 2.8
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 23,
+      "cost_usd": 3.18
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 24,
+      "cost_usd": 3.19
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 25,
+      "cost_usd": 3.02
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 26,
+      "cost_usd": 3.16
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 27,
+      "cost_usd": 3.04
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 28,
+      "cost_usd": 2.83
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 29,
+      "cost_usd": 2.82
+    },
+    {
+      "resource_id": "vnet-core-prod",
+      "day": 30,
+      "cost_usd": 2.91
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 1,
+      "cost_usd": 21.28
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 2,
+      "cost_usd": 20.95
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 3,
+      "cost_usd": 21.15
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 4,
+      "cost_usd": 21.28
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 5,
+      "cost_usd": 19.07
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 6,
+      "cost_usd": 19.2
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 7,
+      "cost_usd": 18.73
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 8,
+      "cost_usd": 20.9
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 9,
+      "cost_usd": 21.23
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 10,
+      "cost_usd": 19.7
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 11,
+      "cost_usd": 20.39
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 12,
+      "cost_usd": 18.89
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 13,
+      "cost_usd": 21.38
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 14,
+      "cost_usd": 21.17
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 15,
+      "cost_usd": 21.52
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 16,
+      "cost_usd": 20.99
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 17,
+      "cost_usd": 21.22
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 18,
+      "cost_usd": 18.48
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 19,
+      "cost_usd": 20.76
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 20,
+      "cost_usd": 19.46
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 21,
+      "cost_usd": 21.38
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 22,
+      "cost_usd": 20.97
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 23,
+      "cost_usd": 21.17
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 24,
+      "cost_usd": 20.99
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 25,
+      "cost_usd": 19.25
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 26,
+      "cost_usd": 20.92
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 27,
+      "cost_usd": 18.75
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 28,
+      "cost_usd": 21.19
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 29,
+      "cost_usd": 21.15
+    },
+    {
+      "resource_id": "vm-analytics-dev-01",
+      "day": 30,
+      "cost_usd": 19.11
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 1,
+      "cost_usd": 23.11
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 2,
+      "cost_usd": 21.86
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 3,
+      "cost_usd": 21.31
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 4,
+      "cost_usd": 23.04
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 5,
+      "cost_usd": 21.04
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 6,
+      "cost_usd": 20.32
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 7,
+      "cost_usd": 20.92
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 8,
+      "cost_usd": 21.4
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 9,
+      "cost_usd": 23.28
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 10,
+      "cost_usd": 23.64
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 11,
+      "cost_usd": 21.22
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 12,
+      "cost_usd": 22.5
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 13,
+      "cost_usd": 21.65
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 14,
+      "cost_usd": 23.69
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 15,
+      "cost_usd": 22.13
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 16,
+      "cost_usd": 23.55
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 17,
+      "cost_usd": 20.65
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 18,
+      "cost_usd": 23.66
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 19,
+      "cost_usd": 20.87
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 20,
+      "cost_usd": 23.63
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 21,
+      "cost_usd": 21.17
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 22,
+      "cost_usd": 20.62
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 23,
+      "cost_usd": 21.77
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 24,
+      "cost_usd": 22.8
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 25,
+      "cost_usd": 21.34
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 26,
+      "cost_usd": 22.37
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 27,
+      "cost_usd": 22.04
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 28,
+      "cost_usd": 21.6
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 29,
+      "cost_usd": 22.27
+    },
+    {
+      "resource_id": "sql-analytics-dev-db01",
+      "day": 30,
+      "cost_usd": 21.14
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 1,
+      "cost_usd": 8.27
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 2,
+      "cost_usd": 7.36
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 3,
+      "cost_usd": 8.54
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 4,
+      "cost_usd": 8.05
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 5,
+      "cost_usd": 8.28
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 6,
+      "cost_usd": 8.31
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 7,
+      "cost_usd": 8.22
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 8,
+      "cost_usd": 7.83
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 9,
+      "cost_usd": 7.45
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 10,
+      "cost_usd": 8.21
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 11,
+      "cost_usd": 7.78
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 12,
+      "cost_usd": 7.76
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 13,
+      "cost_usd": 8.45
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 14,
+      "cost_usd": 8.28
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 15,
+      "cost_usd": 7.74
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 16,
+      "cost_usd": 7.76
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 17,
+      "cost_usd": 7.88
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 18,
+      "cost_usd": 7.88
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 19,
+      "cost_usd": 7.74
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 20,
+      "cost_usd": 7.52
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 21,
+      "cost_usd": 7.9
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 22,
+      "cost_usd": 8.56
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 23,
+      "cost_usd": 8.23
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 24,
+      "cost_usd": 8.52
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 25,
+      "cost_usd": 8.15
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 26,
+      "cost_usd": 7.75
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 27,
+      "cost_usd": 8.06
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 28,
+      "cost_usd": 7.36
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 29,
+      "cost_usd": 7.73
+    },
+    {
+      "resource_id": "st-backup-qa-archive",
+      "day": 30,
+      "cost_usd": 7.91
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 1,
+      "cost_usd": 12.15
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 2,
+      "cost_usd": 12.3
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 3,
+      "cost_usd": 11.93
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 4,
+      "cost_usd": 11.89
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 5,
+      "cost_usd": 11.45
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 6,
+      "cost_usd": 11.95
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 7,
+      "cost_usd": 12.77
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 8,
+      "cost_usd": 12.57
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 9,
+      "cost_usd": 11.37
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 10,
+      "cost_usd": 11.2
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 11,
+      "cost_usd": 12.03
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 12,
+      "cost_usd": 12.26
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 13,
+      "cost_usd": 11.68
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 14,
+      "cost_usd": 12.61
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 15,
+      "cost_usd": 12.48
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 16,
+      "cost_usd": 12.33
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 17,
+      "cost_usd": 11.47
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 18,
+      "cost_usd": 11.42
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 19,
+      "cost_usd": 11.09
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 20,
+      "cost_usd": 11.51
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 21,
+      "cost_usd": 11.95
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 22,
+      "cost_usd": 12.67
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 23,
+      "cost_usd": 11.18
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 24,
+      "cost_usd": 11.84
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 25,
+      "cost_usd": 12.25
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 26,
+      "cost_usd": 11.41
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 27,
+      "cost_usd": 12.38
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 28,
+      "cost_usd": 11.99
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 29,
+      "cost_usd": 11.51
+    },
+    {
+      "resource_id": "vm-qa-test-01",
+      "day": 30,
+      "cost_usd": 12.3
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 1,
+      "cost_usd": 5.53
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 2,
+      "cost_usd": 6.24
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 3,
+      "cost_usd": 6.26
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 4,
+      "cost_usd": 5.62
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 5,
+      "cost_usd": 5.93
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 6,
+      "cost_usd": 5.69
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 7,
+      "cost_usd": 6.44
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 8,
+      "cost_usd": 6.02
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 9,
+      "cost_usd": 5.57
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 10,
+      "cost_usd": 5.76
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 11,
+      "cost_usd": 6.33
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 12,
+      "cost_usd": 5.96
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 13,
+      "cost_usd": 6.29
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 14,
+      "cost_usd": 6.16
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 15,
+      "cost_usd": 6.47
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 16,
+      "cost_usd": 6.09
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 17,
+      "cost_usd": 6.43
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 18,
+      "cost_usd": 6.38
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 19,
+      "cost_usd": 6.11
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 20,
+      "cost_usd": 6.21
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 21,
+      "cost_usd": 6.0
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 22,
+      "cost_usd": 6.32
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 23,
+      "cost_usd": 6.05
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 24,
+      "cost_usd": 6.38
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 25,
+      "cost_usd": 6.23
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 26,
+      "cost_usd": 5.98
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 27,
+      "cost_usd": 5.77
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 28,
+      "cost_usd": 5.76
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 29,
+      "cost_usd": 6.13
+    },
+    {
+      "resource_id": "appsvc-reportes-dev",
+      "day": 30,
+      "cost_usd": 6.26
+    }
+  ]
+}

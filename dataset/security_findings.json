@@ -1,0 +1,50 @@
+{
+  "source_note": "Simulación de hallazgos tipo Microsoft Defender for Cloud / Azure Advisor",
+  "findings": [
+    {
+      "finding_id": "F-001",
+      "resource_id": "kv-ops-prod-secrets",
+      "severity": "Alta",
+      "source": "Defender for Cloud",
+      "description": "El Key Vault permite acceso desde redes públicas sin restricción de firewall.",
+      "recommended_action": "Habilitar 'Firewalls and virtual networks' y restringir a las subredes de rg-mfg-prod.",
+      "auto_remediable": true
+    },
+    {
+      "finding_id": "F-002",
+      "resource_id": "vm-ops-prod-02",
+      "severity": "Alta",
+      "source": "Defender for Cloud",
+      "description": "La máquina virtual tiene el puerto 3389 (RDP) expuesto a Internet (0.0.0.0/0).",
+      "recommended_action": "Restringir el NSG para permitir RDP solo desde el rango de IPs corporativas, o deshabilitar y usar Azure Bastion.",
+      "auto_remediable": true
+    },
+    {
+      "finding_id": "F-003",
+      "resource_id": "st-portal-prod-static",
+      "severity": "Media",
+      "source": "Azure Advisor",
+      "description": "La cuenta de almacenamiento no tiene habilitado 'Secure transfer required' (HTTPS obligatorio).",
+      "recommended_action": "Habilitar el flag de transferencia segura en la cuenta de almacenamiento.",
+      "auto_remediable": true
+    },
+    {
+      "finding_id": "F-004",
+      "resource_id": "sql-analytics-dev-db01",
+      "severity": "Baja",
+      "source": "Azure Advisor",
+      "description": "La base de datos SQL en el entorno de desarrollo no tiene retención de backups configurada de forma explícita.",
+      "recommended_action": "Configurar retención de backup de 7 días (valor por defecto es suficiente para dev).",
+      "auto_remediable": true
+    },
+    {
+      "finding_id": "F-005",
+      "resource_id": "aks-plataforma-prod",
+      "severity": "Alta",
+      "source": "Defender for Cloud",
+      "description": "El clúster de AKS tiene habilitado el acceso al API server desde cualquier IP.",
+      "recommended_action": "Restringir los rangos de IP autorizados del API server de AKS a las IPs de administración conocidas.",
+      "auto_remediable": false
+    }
+  ]
+}

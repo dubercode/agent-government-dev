@@ -1,0 +1,7 @@
+# Sin dependencias externas por ahora - el Paso 1 usa solo la librería estándar de Python.
+# A medida que avancemos (Paso 2, 3, 4) agregaremos aquí lo que se necesite
+# (ej. una librería de terraform templating, o un cliente de LLM local si se usa).
+google-genai
+pydantic
+pandas
+tabulate

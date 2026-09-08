@@ -1,33 +1,6 @@
 # agent-government-dev
 Repositorio principal del agente de gobierno cloud desarrollado para XpertGroup.
-
-Estructura del repositorio.
-agent-government-dev/
-│
-├── app.py ---------------------------> Layer 1 - Entry Point
-├── cli.py ---------------------------> Layer 2 - Orchestration
-├── requirements.txt
-│
-├── agent/
-│   ├── nlu/
-│   │   └── intent_parser.py-----------> Layer 3 - Intent Parsing / NLU
-│   ├── actions/
-│   │   ├── inventory.py
-│   │   ├── terraform_generator.py
-│   │   └── remediation.py
-│   └── validation/
-│       ├── tfvars_validator.py
-│       └── remediation_validator.py
-│
-├── dataset/
-│   ├── inventory.json
-│   ├── costs.json
-│   └── security_findings.json
-│
-├── generated/
-│   └── terraform.tfvars
-│
-└── arquetipo-storage-consumidor/
+Cloud Governance Agent es un agente de gobierno cloud desarrollado en Python que simula la operación segura de un entorno Azure mediante lenguaje natural, siguiendo una arquitectura modular por capas inspirada en sistemas de IA agentica. El proyecto separa claramente la comprensión del lenguaje (intent_parser.py), la lógica de negocio (actions), las validaciones (validation) y la orquestación (cli.py), aplicando principios como Single Responsibility, Human-in-the-Loop y Zero Trust. A partir de un inventario cloud, históricos de costos y hallazgos de seguridad simulados, el agente puede consultar recursos, detectar anomalías de costo, generar archivos terraform.auto.tfvars compatibles con un arquetipo de Terraform y proponer remediaciones que requieren confirmación humana antes de considerarse ejecutadas.
 
 
 # Cloud Governance Agent
@@ -152,4 +125,3 @@ En un entorno real esta arquitectura evolucionaría reemplazando:
 | Archivos               | Cosmos DB            |
 | Logs                   | Application Insights |
 
-La arquitectura permanecería igual; únicamente cambiarían los adaptadores hacia servicios reales.

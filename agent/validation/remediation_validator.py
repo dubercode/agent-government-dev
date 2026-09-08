@@ -1,35 +1,21 @@
-from rich.console import Console
-
-console = Console()
-
-
 def validate_remediation(finding):
+    """
+    Valida si una remediación puede proponerse automáticamente.
+    """
 
-    if finding["severity"] == "Alta":
+    if not finding:
+        return {
+            "allowed": False,
+            "reason": "Hallazgo inexistente."
+        }
 
-        console.print(
-            "[yellow]Hallazgo crítico detectado.[/yellow]"
-        )
+    if finding.get("severity", "").lower() == "alta" and not finding.get("auto_remediable", False):
+        return {
+            "allowed": False,
+            "reason": "Hallazgo crítico requiere aprobación manual."
+        }
 
-    if not finding["auto_remediable"]:
-
-        console.print(
-            "[red]La ejecución automática está bloqueada para este hallazgo.[/red]"
-        )
-
-        return False
-
-    return True
-
-def execute_mock(finding):
-    return f"""
-Acción aprobada.
-
-Modo simulación.
-
-Se habría ejecutado:
-
-{finding["recommended_action"]}
-
-No se realizaron cambios reales.
-"""
+    return {
+        "allowed": True,
+        "reason": "Remediación permitida."
+    }

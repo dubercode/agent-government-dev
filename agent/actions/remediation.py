@@ -1,65 +1,58 @@
-from rich.panel import Panel
+from rich.table import Table
 
 
-def get_finding(findings, user_text):
+def get_finding(findings, user_input):
 
-    text = user_text.upper()
+    text = user_input.upper()
 
     for finding in findings:
-
-        if finding["finding_id"] in text:
-            return finding
-
-        if finding["resource_id"].lower() in user_text.lower():
+        if finding["finding_id"].upper() in text:
             return finding
 
     return None
 
 
+def get_all_findings(findings):
+    return findings
+
+
+def build_findings_table(findings):
+
+    table = Table(title="Hallazgos de Seguridad")
+
+    table.add_column("ID", style="cyan")
+    table.add_column("Recurso")
+    table.add_column("Severidad")
+    table.add_column("Fuente")
+
+    for f in findings:
+        table.add_row(
+            f["finding_id"],
+            f["resource_id"],
+            f["severity"],
+            f["source"],
+        )
+
+    return table
+
+
 def build_remediation(finding):
 
-    auto = "Sí" if finding["auto_remediable"] else "No"
+    table = Table(title=f"Remediación {finding['finding_id']}")
 
-    content = f"""
-[bold]Finding[/bold]: {finding["finding_id"]}
+    table.add_column("Campo")
+    table.add_column("Valor")
 
-[bold]Recurso[/bold]:
-{finding["resource_id"]}
+    table.add_row("Recurso", finding["resource_id"])
+    table.add_row("Severidad", finding["severity"])
+    table.add_row("Descripción", finding["description"])
+    table.add_row("Acción", finding["recommended_action"])
 
-[bold]Severidad[/bold]:
-{finding["severity"]}
-
-[bold]Fuente[/bold]:
-{finding["source"]}
-
-[bold]Descripción[/bold]:
-{finding["description"]}
-
-[bold]Acción propuesta[/bold]:
-{finding["recommended_action"]}
-
-[bold]Auto-remediable[/bold]:
-{auto}
-
-[bold yellow]La ejecución siempre requiere confirmación humana.[/bold yellow]
-"""
-
-    return Panel(
-        content,
-        title="Propuesta de remediación",
-    )
+    return table
 
 
 def execute_mock(finding):
-
-    return f"""
-Acción aprobada.
-
-Modo simulación.
-
-Se habría ejecutado:
-
-{finding["recommended_action"]}
-
-No se realizaron cambios reales.
-"""
+    return (
+        f"Remediación simulada ejecutada sobre "
+        f"{finding['resource_id']}."
+    )
